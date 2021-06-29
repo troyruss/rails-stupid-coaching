@@ -13,3 +13,18 @@
  *= require_tree .
  *= require_self
  */
+
+/* @import "bootstrap/scss/bootstrap"*/
+
+$gray: #F4F4F4;
+$green: #58A783;
+
+body {
+   background: $gray;
+   padding: 24px;
+   font-family: sans-serif;
+}
+
+h1{
+  font-family: sans-serif;
+}
